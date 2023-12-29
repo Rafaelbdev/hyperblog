@@ -8,6 +8,7 @@ Bueno, en realidad muchas cosas, como:
 - El flujo de trabajo en github
 - Por qué es importante usar buenas practicas
 - hacks del profesor
+- Creado por Ro
 
 Si quieres ver el curso está en esta página: 
 [platzi](http://platzi.com "platzi")
